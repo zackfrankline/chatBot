@@ -1,0 +1,23 @@
+.chatRoom{
+    width: 100%;
+    padding-left: 10px;
+    margin-top: -20px;
+}
+.btnsHere{
+    /* position: relative; */
+    top: 0%;
+    width: 100%;
+    text-align: center;
+}
+.btn{
+    padding: 1px 2px;
+    max-width: 70px;
+    margin-right: 10px;
+    font-size: x-small;
+    background: turquoise;
+    float: left;
+    border-radius: 5px;
+}
+.bot{
+    max-width: 425px;
+}
